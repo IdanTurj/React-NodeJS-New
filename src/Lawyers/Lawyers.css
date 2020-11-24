@@ -1,0 +1,53 @@
+.lawyers-col{
+    margin-top: 5%;
+}
+
+.lawyers-card{
+    width: 400px;
+    height: 450px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5%;
+    background: #fff;
+    margin: 10px;
+    
+   
+}
+
+.lawyers-card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.lawyers-image{
+    position: relative;
+    margin-bottom: 10px;
+    width: 399px;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.lawyers-p{
+    margin-left: 15px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    font-weight: 569;
+}
+
+.lawyers-button{
+    background: #000;
+    color: #fff;
+    font-size: 17px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    float: left;
+    margin: 4px;
+    
+}
+
+.lawyers-button:hover{
+    color: gray;
+
+}
+
+
